@@ -18,7 +18,7 @@ class SplashActivity : AppCompatActivity() {
             startActivity(myIntent)
             finish()
 
-        } , 1500 )
+        } , 3000 )
 
 
     }
